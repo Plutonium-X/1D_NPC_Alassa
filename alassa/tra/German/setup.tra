@@ -1,0 +1,52 @@
+@0    = ~Alassa NPC~
+@1    = ~TdB scheint nicht installiert zu sein.~
+@2    = ~Nach ihren Reisen mit <CHARNAME>, verfolgte Alassa unbarmherzig die, die ihr in ihrem früheren Leben Unrecht getan hatten, um Rache an ihnen zu üben. Jeder, der annahm, daß sie hinter ihm her sein könnte, zitterte bei der bloßen Erwähnung ihres Namens. Während sie immer berüchtigter wurde, ließ sie sich mit illustren Gestalten aus der Unterwelt von Athkatla ein, nur um sie, nachdem sie sie verführt hatte, bei nächster Gelegenheit vor den Kopf zu stoßen. Trotz ihres Rufes und ihrer außergewöhnlichen Fähigkeiten, war das schließlich ihr Untergang. Die Schattendiebe mögen es nicht betrogen zu werden, nicht einmal von den hinreißensten Frauen.~
+@3    = ~Nach ihren Reisen mit <CHARNAME>, verfolgte Alassa unbarmherzig die, die ihr in ihrem früheren Leben Unrecht getan hatten, um Rache an ihnen zu üben. Jeder, der annahm, daß sie hinter ihm her sein könnte, zitterte bei der bloßen Erwähnung ihres Namens. Während sie immer berüchtigter wurde, ließ sie sich mit illustren Gestalten aus der Unterwelt von Athkatla ein, nur um sie, nachdem sie sie verführt hatte, bei nächster Gelegenheit vor den Kopf zu stoßen. Trotz ihres Rufes und ihrer außergewöhnlichen Fähigkeiten, war das schließlich ihr Untergang. Die Nachtmesser mögen es nicht betrogen zu werden, nicht einmal von den hinreißensten Frauen.~
+@4    = ~Alassa~
+@5    = ~Hallo Ihr da.~ [d0alas0]
+@6    = ~Oh, laßt mich allein!~ [d0alas1]
+@7    = ~Ihr scheint fähig genug.~ [d0alas2]
+@8    = ~Manchmal seid Ihr ein Dummkopf, das ist sicher.~ [d0alas3]
+@9    = ~Ihr fangt wirklich an, mir auf die Nerven zu gehen, wißt Ihr?~ [d0alas4]
+@10   = ~Das hätte ich nicht von Euch erwartet. Hmph.~ [d0alas5]
+@11   = ~Ihr wollt, daß ich führe? Mir wäre jemand anders an der Spitze lieber.~ [d0alas6]
+@12   = ~Ich bin müde. Vielleicht sollten wir bald mal über ein Bett nachdenken?~ [d0alas7]
+@13   = ~Herumstehen? Ich würde lieber liegen als stehen.~ [d0alas8]
+@14   = ~Jetzt kriegt Ihr´s!~ [d0alas9]
+@15   = ~Sterbt, sterbt, sterbt!~ [d0alas10]
+@16   = ~Ich schlitze Euch auf!~ [d0alas11]
+@17   = ~Ihr jagt mir keine Angst ein!~ [d0alas12]
+@18   = ~Ich bin nicht nur irgendein Mädchen!~ [d0alas13]
+
+
+@21   = ~Aaah! Ich bin voller Blut!~ [d0alas16]
+@22   = ~Ist es nicht hübsch hier? Man muß sich fragen, was sich vor unseren Blicken verbirgt.~ [d0alas17]
+@23   = ~Ich mag es nicht, an solchen Orten herumzuspazieren. Ich wäre jetzt lieber an einem ruhigeren Platz.~ [d0alas18]
+@24   = ~Nun, dies ist schon ein netter Ort. Was machen wir hier noch gleich?~ [d0alas19]
+@25   = ~Ich ziehe die Dunkelheit dem Tageslicht vor. Alles sieht anders aus.~ [d0alas20]
+@26   = ~Dies ist die beste Zeit. Soviel kann geschehen während der Nacht.~ [d0alas21]
+@27   = ~Yep?~ [d0alas22]
+@28   = ~Wollt Ihr was?~ [d0alas23]
+@29   = ~Ich bin immer für Euch da.~ [d0alas24]
+@30   = ~Was habt Ihr im Sinn?~ [d0alas25]
+@31   = ~Mmhmm?~ [d0alas26]
+@32   = ~Jaaa, was gibt´s?~ [d0alas27]
+@33   = ~jaaa, was auch immer.~ [d0alas28]
+@34   = ~Ich gehe.~ [d0alas29]
+@35   = ~Warum so hastig?~ [d0alas30]
+@36   = ~Okay, entspannt Euch.~ [d0alas31]
+@37   = ~Wenn Ihr wünscht.~ [d0alas32]
+@38   = ~Sicher, wenn Ihr wollt.~ [d0alas33]
+@39   = ~Fein, fein. Ich gehe.~ [d0alas34]
+@40   = ~Macht mal `ne Pause, das ist verwirrend.~ [d0alas35]
+@41   = ~Ich brauche Euren ganzen Ärger nicht.~ [d0alas36]
+@42   = ~Wow, was für ein Glück!~ [d0alas37]
+@43   = ~Aargh, Ich bin nutzlos.~ [d0alas38]
+@44   = ~Das klappt nicht...~ [d0alas39]
+@45   = ~Erwartet Ihr wirklich, daß ich all das schleppe?~ [d0alas40]
+@46   = ~Ich nehme das.~ [d0alas41]
+@47   = ~Sie werden mich vermissen.~ [d0alas42]
+@48   = ~Da würde ich nicht reintreten wollen.~ [d0alas43]
+@49   = ~ALASSA erzählt Euch freimütig aus ihrem Leben. Ohne Geschwister aufgewachsen, verließ der Vater die Familie, als sie noch sehr jung war und sie mußte die Rolle der Unterstützerin ihrer verzweifelten Mutter einnehmen.
+Obwohl sie es weit von sich weist, daß sie jemals so tief sinken würde sich zu verkaufen, prahlt sie doch damit, ihre körperlichen Vorzüge einzusetzen, wann immer ihr das von Nutzen ist. 
+Sie schlug sich in Athkatla durch mit Hilfe zahlreicher Liebhaber, von denen sie nicht für einen einzigen wirklich etwas empfand, teils auch mittels unterschiedlicher krimineller Aktivitäten. Mit einem koketten Zwinkern versichert sie Euch, daß Angehörige der Stadtwache keinesfalls unfehlbar sind.~

@@ -1,0 +1,26 @@
+IF
+	InParty(Myself)
+	InParty("Anomen")
+	Global("D0AlasAno","GLOBAL",0)
+	OR(2)
+		AreaType(OUTDOOR)
+		AreaType(DUNGEON)
+THEN
+	RESPONSE #100
+		SetGlobal("D0AlasAno","GLOBAL",1)
+		RestParty()
+END
+
+IF
+	InParty(Myself)
+	InParty("Anomen")
+	!Dead("Anomen")
+	Global("D0AlasAno","GLOBAL",1)
+	OR(2)
+		AreaType(OUTDOOR)
+		AreaType(DUNGEON)
+THEN
+	RESPONSE #100
+		SetGlobal("D0AlasAno","GLOBAL",2)
+		Interact("Anomen")
+END

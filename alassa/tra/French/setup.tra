@@ -1,0 +1,144 @@
+@0    = ~Alassa NPC~
+@1    = ~Il semble que ToB ne soit pas installe.~
+@2    = ~Au fur et à mesure de ses voyages aux côtés de <CHARNAME>, Alassa devint de plus en plus vindicative, en quête d'une vengeance envers ceux qui, d'après elle, l'avaient trompée par le passé. Tous ceux qui avaient été en rapport avec elle autrefois tremblaient à l'évocation de son nom. Malgré l'accroissement de sa sinistre réputation, elle était toujours capable de jouer la carte de la séduction, ciblant de préférence les pontes de la pègre d'Athkatla. Néanmoins, malgré ses habiletés et sa réputation, ceci devait causer sa perte, car les Voleurs de l'Ombre ne pardonnent pas la traîtrise, même émanant d'une femme.~
+@3    = ~Au fur et à mesure de ses voyages aux côtés de <CHARNAME>, Alassa devint de plus en plus vindicative, en quête d'une vengeance envers ceux qui, d'après elle, l'avaient trompée par le passé. Tous ceux qui avaient été en rapport avec elle autrefois tremblaient à l'évocation de son nom. Malgré l'accroissement de sa sinistre réputation, elle était toujours capable de jouer la carte de la séduction, ciblant de préférence les pontes de la pègre d'Athkatla. Néanmoins, malgré ses habiletés et sa réputation, ceci devait causer sa perte, car les Lames de la Nuit ne pardonnent pas la traîtrise, même émanant d'une femme.~
+@4    = ~Alassa~
+@5    = ~Bonjour.~ [d0alas0]
+@6    = ~Oh, laisse-moi tranquille !~ [d0alas1]
+@7    = ~Tu m'as l'air acceptable.~ [d0alas2]
+@8    = ~Il n'y a pas de doute, tu es vraiment stupide parfois.~ [d0alas3]
+@9    = ~Tu sais que tu commences à me taper sur les nerfs ?~ [d0alas4]
+@10   = ~Eh bien, tu ne ressembles pas vraiment à ce à quoi je m'attendais. Hmph.~ [d0alas5]
+@11   = ~Tu t'attends à ce que je nous guide ? Je préférerais que quelqu'un d'autre s'en occupe.~ [d0alas6]
+@12   = ~Je suis fatiguée. On devrait peut-être songer à se mettre au lit ?~ [d0alas7]
+@13   = ~On va rester débout ici ? Je préférerais plutôt m'allonger.~ [d0alas8]
+@14   = ~Tu vas voir ce que tu vas prendre !~ [d0alas9]
+@15   = ~Crève, crève, crève !~ [d0alas10]
+@16   = ~Je vais te couper en morceaux !~ [d0alas11]
+@17   = ~Tu ne me fais pas peur !~ [d0alas12]
+@18   = ~Je ne suis pas n'importe quelle fille !~ [d0alas13]
+
+
+@21   = ~Aaah ! Je saigne de partout !~ [d0alas16]
+@22   = ~C'est plutôt joli par ici. On se demande ce qui se cache à nos yeux.~ [d0alas17]
+@23   = ~Je n'aime pas ce genre d'endroit. Je préférerais de loin un endroit plus calme.~ [d0alas18]
+@24   = ~Eh bien, cet endroit est vraiment agréable. Pourquoi sommes-nous ici, déjà ?~ [d0alas19]
+@25   = ~Je préfère l'obscurité à la lumière du jour. Tout semble différent.~ [d0alas20]
+@26   = ~C'est le meilleur moment. Tant de choses peuvent se produire pendant la nuit.~ [d0alas21]
+@27   = ~Ouais ?~ [d0alas22]
+@28   = ~Tu cherches quelque chose ?~ [d0alas23]
+@29   = ~Je suis toujours là pour toi.~ [d0alas24]
+@30   = ~Qu'est-ce que tu as en tête ?~ [d0alas25]
+@31   = ~Mmhmm ?~ [d0alas26]
+@32   = ~Oui, qu'est-ce qu'il y a ?~ [d0alas27]
+@33   = ~Ouais, peu importe.~ [d0alas28]
+@34   = ~J'y vais.~ [d0alas29]
+@35   = ~Qu'est-ce qu'il y a de si urgent ?~ [d0alas30]
+@36   = ~C'est bon, calme-toi.~ [d0alas31]
+@37   = ~Si c'est ce que tu veux.~ [d0alas32]
+@38   = ~Bien sûr, si tu veux.~ [d0alas33]
+@39   = ~Bien, bien, j'y vais.~ [d0alas34]
+@40   = ~Laisse-moi respirer, je n'y comprends plus rien.~ [d0alas35]
+@41   = ~Je n'ai pas besoin que tu me harcèles comme ça.~ [d0alas36]
+@42   = ~Ouah, quelle chance !~ [d0alas37]
+@43   = ~Aargh, je suis impuissante.~ [d0alas38]
+@44   = ~Ça ne fonctionne pas...~ [d0alas39]
+@45   = ~Tu t'attends vraiment à ce que je transporte tout ça ?~ [d0alas40]
+@46   = ~Je vais prendre ça.~ [d0alas41]
+@47   = ~Je vais leur manquer.~ [d0alas42]
+@48   = ~Je n'ai aucune intention de marcher là-dedans.~ [d0alas43]
+@49   = ~ALASSA raconte volontiers l'histoire de sa vie. Fille unique, elle fut abandonnée par son père dès son plus jeune âge et grandit en soutenant sa mère traumatisée. Bien qu'elle nie avoir jamais eu recours à la prostitution, elle admet utiliser son corps à son avantage dès que l'occasion se présente. Elle a survécu à Athkatla en partie grâce à la générosité de divers prétendants pour lesquels elle n'avait aucune affection, et grâce à ses activités criminelles. Elle vous assure que même les membres de la garde de la cité ne sont pas infaillibles.~
+
+// WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "

@@ -1,0 +1,7 @@
+IF
+	Global("D0SpawnAlassa","AR0400",0)
+THEN
+	RESPONSE #100
+		SetGlobal("D0SpawnAlassa","AR0400",1)
+		CreateCreature("D0Alassa",[3336.1741],5)
+END

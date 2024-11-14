@@ -1,0 +1,31 @@
+IF
+    Global("StartEndBios","AR6200",1)
+    InParty("D0Alassa")
+    Global("D0AlassaBio","GLOBAL",0)
+	!Global("D0Maevar","GLOBAL",16)
+THEN
+    RESPONSE #100
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+        TextScreen("D0ALAND1")
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+        SmallWait(1)
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+        Continue()
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+END
+
+IF
+    Global("StartEndBios","AR6200",1)
+    InParty("D0Alassa")
+    Global("D0AlassaBio","GLOBAL",0)
+	Global("D0Maevar","GLOBAL",16)
+THEN
+    RESPONSE #100
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+        TextScreen("D0ALAND2")
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+        SmallWait(1)
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+        Continue()
+        SetGlobal("D0AlassaBio","GLOBAL",1)
+END
