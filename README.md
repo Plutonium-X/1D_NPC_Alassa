@@ -1,6 +1,6 @@
 # Alassa la voleuse
 
-Elle vous attend dans les bas quartier à coté de la Maison Jensen
+Elle vous attend dans les bas quartiers à coté de la Maison Jensen
 
 Particularités :
 - Elle a très peu de dialogues et quelques banters.
